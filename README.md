@@ -22,7 +22,7 @@ AI-Financial-Chatbot/
 
 # How to run
 1.Clone this repository:
-git clone https://github.com/your-username/AI-Financial-Chatbot.git
+git clone https://github.com/shrutiii16/AI-Financial-Chatbot.git
 cd AI-Financial-Chatbot
 2.Open the Jupyter Notebook:
 jupyter notebook
